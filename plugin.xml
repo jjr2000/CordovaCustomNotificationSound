@@ -23,8 +23,9 @@
 	 <platform name="ios">
 
 		<resource-file src="src/notification1.wav" target="Resources/notification1.wav" />
-		<resource-file src="src/notification1.wav" target="Resources/www/notification1.wav" />
 	 
 	 </platform>
+	 
+	 <asset src="src/notification1.wav" target="notification1.wav" />
 	 
 </plugin>
